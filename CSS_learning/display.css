@@ -1,0 +1,29 @@
+h1 {
+    background-color: cornflowerblue;
+}
+
+.circle {
+    height: 300px;
+    width: 300px;
+
+    background-color: pink;
+    transition: 1s;
+}
+
+.circle:hover {
+    border-radius: 50%;
+    background-color: blueviolet;
+}
+
+.c2 {
+    height: 300px;
+    width: 300px;
+
+    background-color: rosybrown;
+    transition: 1s;
+    border-radius: 50%;
+}
+
+.c2:hover {
+    scale: 2;
+}

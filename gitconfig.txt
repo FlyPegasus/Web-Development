@@ -1,0 +1,8 @@
+Commands:
+
+
+git config --list --show-origin
+
+git config --global user.name "FlyPegasus"
+
+git config --global user.email "anshusignin@gmail.com"

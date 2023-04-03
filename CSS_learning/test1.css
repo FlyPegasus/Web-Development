@@ -1,0 +1,29 @@
+li {
+    color: blue;
+}
+
+#clear {
+    color: white;
+    background-color: red;
+}
+
+.done {
+    color: grey;
+}
+
+h1 {
+    color: violet;
+}
+
+div {
+    width: 150px;
+    height: 200px;
+    border-color: blueviolet;
+    border-style: dotted;
+    border-radius: 50%;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
